@@ -5,3 +5,4 @@ pandas
 requests
 plotly
 python-dotenv
+#plotly.graph_objects
